@@ -2,7 +2,9 @@
 	[
 		{
 			"name": "Radar",
+			
 			"url": "https://github.com/electricmotel/Radar-test/tree/main/Radar",
+			"home_url": "",
 			"download": "https://github.com/electricmotel/Radar-test/blob/main/Radar/watchface.tar.gz"
 			
 		}
